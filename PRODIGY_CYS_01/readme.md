@@ -20,6 +20,7 @@ A Python GUI application to perform encryption and decryption using the classic 
 ## 🏁 RESULT 
 ![image](https://github.com/user-attachments/assets/16ed7a86-63b7-43da-92f3-bac5926c1afc)
 
+---
 ## 🛠️ Technologies Used
 
 - Python 3.x  

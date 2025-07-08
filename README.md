@@ -22,7 +22,7 @@ A basic tool that performs image encryption via pixel operations.
 - Image encryption and decryption  
 - CLI-based interaction  
 
----
+
 
 ### 🔐 Task-03: Password Complexity Checker  
 🧠 **"Assess Password Strength in Real Time"**  
@@ -32,7 +32,6 @@ A utility that checks the complexity of a password based on several criteria.
 - Gives feedback on password strength  
 - Easy to use and extend  
 
----
 
 ### 🎯 Task-04: Simple Keylogger  
 📋 **"Keystroke Logger with File Output"**  
@@ -42,7 +41,6 @@ A keylogger that records keystrokes and logs them to a file.
 - Logs output to a text file  
 - ⚠️ For educational and ethical use only  
 
----
 
 ### 🌐 Task-05: Network Packet Analyzer  
 📡 **"Capture and Analyze Network Traffic"**  

@@ -4,7 +4,7 @@ This repository contains the tasks completed as part of the **CODSOFT Internship
 
 ---
 ## 📁 Folder Structure
-
+---
 ### ✅ Task-01: Implement Caesar Cipher  
 🔐 **"Encrypt and Decrypt Messages using Caesar Cipher"**  
 A Python program that performs encryption and decryption using the Caesar Cipher algorithm.  
@@ -13,7 +13,7 @@ A Python program that performs encryption and decryption using the Caesar Cipher
 - Encrypts and decrypts messages  
 - Simple terminal-based interaction  
 
----
+--
 
 ### 🖼️ Task-02: Pixel Manipulation for Image Encryption  
 🧮 **"Image Encryption through Pixel-Level Manipulation"**  
